@@ -12,14 +12,14 @@
             'author'    =>  _t('%s 发布的文章')
         ), '', ' - '); ?><?php $this->options->title(); ?></title>
         <meta name="keywords" 
-            content="php,linux,javascript,android,gracecode,vim,tracker,blog,feelinglucky,明城,博客,生活,编程,代码,程序员" />
+            content="茶,茶生活,茶旅行,茶具,红茶,大红袍,武夷山,云南,China Tea Tour,Da Hong Pao,Tikuanyin" />
         <meta name="description" 
             content="" />
         <meta name="viewport"
             content="width=device-width,initial-scale=1,maximum-scale=1" />
     
-        <link rel="shortcut icon" href="<?php $this->options->themeUrl('images/wu@64x64.png');?>" type="image/png" />
-        <link rel="icon" href="<?php $this->options->themeUrl('images/wu@64x64.png');?>" type="image/x-icon"/>
+        <link rel="shortcut icon" href="<?php $this->options->themeUrl('images/cha@64x64.png');?>" type="image/png" />
+        <link rel="icon" href="<?php $this->options->themeUrl('images/cha@64x64.png');?>" type="image/x-icon"/>
 
         <link href="<?php $this->options->themeUrl('styles/reset.css'); ?>"
             rel="stylesheet" type="text/css" />
@@ -28,24 +28,15 @@
         <link href="<?php $this->options->themeUrl('styles/font-awesome.min.css'); ?>"
             rel="stylesheet" type="text/css" />
 
-	<?php /*
-        <link href="//cdn.staticfile.org/meyer-reset/2.0/reset.css"
-            rel="stylesheet" type="text/css" />
-        <link href="//cdn.staticfile.org/typo.css/1.1/typo.min.css"
-            rel="stylesheet" type="text/css" />
-        <link href="//cdn.staticfile.org/font-awesome/3.2.1/css/font-awesome.min.css"
-            rel="stylesheet" type="text/css" />
-	*/ ?>
-
 	<style>body{display:none\0;*display:none;}/* I don't care IE9(and below) users. :-6 */<?php
 	$css_file = dirname(__FILE__) . "/styles-min.css";
 	if (file_exists($css_file)) {
 	    echo file_get_contents($css_file);
 	}
 	?></style>
-        <meta name="author" content="明城" />
-        <meta name="application-name" content="無標題文檔" />
-        <meta name="verify-v1" content="4BJs16VTJDDsu9Ngl8AOdXkxG0MgCB92r/CgcHOROpA=" />
+        <meta name="author" content="teaHacker" />
+        <meta name="application-name" content="茶行特力" />
+        <meta name="baidu-site-verification" content="NNf45vJ8Ap" /> //网站拥有者验证
         <?php // $this->header(); ?>
     </head>
     <body class="bg">

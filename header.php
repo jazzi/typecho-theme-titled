@@ -14,7 +14,7 @@
         <meta name="keywords" 
             content="茶,茶生活,茶旅行,茶具,红茶,大红袍,武夷山,云南,China Tea Tour,Da Hong Pao,Tikuanyin" />
         <meta name="description" 
-            content="" />
+            content="茶行特力就是一个卖茶叶的，只是有点特别。" />
         <meta name="viewport"
             content="width=device-width,initial-scale=1,maximum-scale=1" />
     

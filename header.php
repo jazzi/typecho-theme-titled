@@ -36,7 +36,7 @@
 	?></style>
         <meta name="author" content="teaHacker" />
         <meta name="application-name" content="茶行特力" />
-        <meta name="baidu-site-verification" content="NNf45vJ8Ap" /> <!-- 网站拥有者验证 -->
+        <meta name="baidu-site-verification" content="fljtvNeuDT" /> <!-- 网站拥有者验证 -->
         <?php // $this->header(); ?>
     </head>
     <body class="bg">

@@ -43,14 +43,6 @@
 	    echo file_get_contents($css_file);
 	}
 	?></style>
-        <?php /*
-        <link rel="stylesheet" href="<?php $this->options->themeUrl('styles-min.css'); ?>">
-        <link href="//fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet" type="text/css" />
-        <link rel="stylesheet/less" type="text/css" href="<?php $this->options->themeUrl('styles.less'); ?>" />
-        <script src="//cdn.staticfile.org/less.js/1.6.1/less.min.js"></script>
-        <link href="//rss.gracecode.com" rel="alternate" title="RSS" type="application/rss+xml" />
-        <link href="//www.gracecode.com/rss.xml" rel="alternate" title="RSS" type="application/rss+xml" />
-	*/ ?>
         <meta name="author" content="明城" />
         <meta name="application-name" content="無標題文檔" />
         <meta name="verify-v1" content="4BJs16VTJDDsu9Ngl8AOdXkxG0MgCB92r/CgcHOROpA=" />

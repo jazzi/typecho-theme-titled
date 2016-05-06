@@ -24,7 +24,7 @@
         <?php $this->widget('Widget_Metas_Category_List')->listCategories('wrapClass=widget-list'); ?>
 	</section>
 
-    //注释掉下面的搜索代码
+    //注释掉下面的搜索代码，希望有一天能重新启用
     /*<h3>搜索</h3>
     <form method="get" action="https://www.google.com/cse" class="search">  
         <div> 

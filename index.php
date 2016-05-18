@@ -1,11 +1,11 @@
 <?php
 /**
- * 無標題文檔 Theme for Typecho
+ * 無標題文檔的修改版 Theme for Typecho
  * 
- * @package 無標題文檔
- * @author mingcheng
- * @version 2014.11.13
- * @link http://www.gracecode.com
+ * @package 有標題文檔
+ * @author 茶行特力
+ * @version 2016.05.18
+ * @link http://chaxing-teli.com
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

@@ -9,6 +9,6 @@
     </div>
 </article>
 
-<?php // $this->need('disqus.php'); ?>
+<?php // $this->need('disqus.php'); ?> <!--注释掉评论功能-->
 <?php $this->need('sidebar.php'); ?>
 <?php $this->need('footer.php'); ?>

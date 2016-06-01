@@ -41,10 +41,6 @@
     </head>
     <body class="bg">
         <header>
-        <!-- 公告牌 -->
-        <div class="notice" itemprop="description">
-           <?php $this->options->notice(); ?>
-        </div>
         <h1 id="logo"><a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title();?></a></h1>
         </header>
 
